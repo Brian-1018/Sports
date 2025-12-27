@@ -1,0 +1,38 @@
+# =========================
+# Core data analysis
+# =========================
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# =========================
+# Visualization
+# =========================
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.17
+
+# =========================
+# Jupyter / notebooks
+# =========================
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.25
+
+# =========================
+# Sports data sources
+# =========================
+pybaseball>=2.2.7
+sportsipy>=0.6.0
+
+# =========================
+# Machine learning (optional but useful)
+# =========================
+scikit-learn>=1.3
+
+# =========================
+# Utilities
+# =========================
+requests>=2.31
+tqdm>=4.66
+python-dateutil>=2.8
